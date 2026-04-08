@@ -1,5 +1,5 @@
 <?php
-$host = "XampTeOdio";
+$host = "127.0.0.1:3307";
 $user = "root";
 $pass = ""; // Cambiar si tienes contraseña en tu servidor local
 $db   = "lab1C2";
