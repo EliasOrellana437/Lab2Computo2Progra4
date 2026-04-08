@@ -6,3 +6,4 @@ button { background: #003366; color: white; border: none; padding: 10px 20px; cu
 .tabla-datos th, .tabla-datos td { border: 1px solid #ddd; padding: 12px; text-align: left; }
 .tabla-datos th { background-color: #003366; color: white; }
 .error { color: red; font-size: 0.9em; }
+
