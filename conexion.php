@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = ""; // Cambiar si tienes contraseña en tu servidor local
-$db   = "ugb_laboratorio";
+$db   = "XampTeOdio";
 
 $conexion = mysqli_connect($host, $user, $pass, $db);
 
